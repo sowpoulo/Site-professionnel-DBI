@@ -1,0 +1,370 @@
+# PROMPT REPLIT AI — SITE WEB PROFESSIONNEL DE DJIBY’S BUSINESS INTERNATIONAL (DBI)
+
+## 1. PRÉSENTATION DU PROJET
+
+Agis comme une équipe experte composée d’un développeur full-stack senior, d’un designer UI/UX spécialisé dans les sites corporate internationaux et d’un consultant en communication institutionnelle et industrielle.
+
+Ta mission est de concevoir et développer un site web professionnel, moderne, premium et responsive pour **DJIBY’S BUSINESS INTERNATIONAL (DBI)**, une entreprise basée au Sénégal qui développe des activités dans le secteur automobile, l’importation et la commercialisation de véhicules, les solutions de mobilité, le service après-vente et le développement progressif de capacités locales de maintenance, de formation et, à terme, d’assemblage automobile.
+
+Le site doit présenter DBI comme un partenaire de développement de la mobilité au Sénégal et en Afrique de l’Ouest, capable de travailler avec des fournisseurs internationaux, des entreprises, des coopératives de transport, des institutions financières et des partenaires publics ou privés.
+
+Le résultat doit être digne d’une entreprise internationale qui souhaite attirer des partenaires industriels, des clients professionnels, des investisseurs et des institutions bancaires.
+
+## 2. OBJECTIFS DU SITE
+
+Le site doit permettre de :
+
+- Présenter l’entreprise et sa vision.
+- Présenter les activités et les solutions automobiles de DBI.
+- Mettre en valeur le programme de renouvellement du parc automobile sénégalais.
+- Présenter le projet de centre automobile intégré : mécanique, carrosserie, peinture, diagnostic et formation professionnelle.
+- Attirer des partenaires industriels et des fournisseurs internationaux.
+- Faciliter les demandes de devis et les demandes de partenariat.
+- Rassurer les banques, investisseurs, coopératives et clients professionnels.
+- Développer une présence numérique crédible et adaptée au marché international.
+
+## 3. IDENTITÉ VISUELLE
+
+Créer une identité visuelle corporate, élégante et cohérente.
+
+Palette de couleurs recommandée :
+- Bleu nuit : #102A43
+- Bleu institutionnel : #1F5B85
+- Or discret : #C6A15B
+- Blanc : #FFFFFF
+- Gris clair : #F3F6F8
+
+Style graphique :
+- Design haut de gamme, épuré et professionnel.
+- Photographies de véhicules récents, de flottes automobiles, d’ateliers modernes et d’infrastructures logistiques.
+- Grandes images immersives, sans surcharge visuelle.
+- Typographie moderne et lisible.
+- Icônes cohérentes et animations discrètes.
+- Boutons d’action visibles.
+- Mise en page aérée avec une hiérarchie claire.
+- Excellent rendu sur ordinateur, tablette et smartphone.
+
+Créer un logo textuel élégant « DBI » accompagné du nom « DJIBY’S BUSINESS INTERNATIONAL » si aucun logo officiel n’est fourni. Le logo doit rester facilement remplaçable par le logo officiel.
+
+Éviter les modèles génériques, les animations excessives et les effets visuels qui nuisent à la crédibilité institutionnelle.
+
+## 4. STRUCTURE DU SITE
+
+Créer les pages suivantes.
+
+### PAGE 1 — ACCUEIL
+
+Créer une page d’accueil très professionnelle.
+
+Section héro :
+Titre principal :
+« Des solutions de mobilité pour accompagner le développement de l’Afrique. »
+
+Sous-titre :
+« DJIBY’S BUSINESS INTERNATIONAL développe des solutions automobiles intégrées, de l’importation de véhicules au service après-vente, avec une ambition de contribution au renouvellement du parc automobile et au développement des compétences locales au Sénégal. »
+
+Boutons :
+- Découvrir nos activités
+- Devenir partenaire
+- Nous contacter
+
+Utiliser une grande photographie immersive d’une flotte automobile moderne ou d’un environnement logistique automobile.
+
+Ajouter une section présentant quatre domaines :
+1. Importation et commercialisation de véhicules.
+2. Solutions de mobilité et gestion de flotte.
+3. Maintenance et service après-vente.
+4. Formation technique et développement de capacités locales.
+
+Ajouter une section « Notre vision » mettant en valeur une mobilité plus fiable, une meilleure disponibilité des véhicules, le développement de services locaux et la professionnalisation du secteur automobile.
+
+Ajouter une section « Notre programme de développement » présentant la première phase de 5 000 véhicules et un objectif stratégique indicatif de développement progressif sur dix ans. Préciser que les phases ultérieures dépendent des financements, des partenariats et des conditions du marché.
+
+Ajouter une section « Nos partenaires » avec des emplacements réservés aux logos des partenaires autorisés à être affichés. Ne pas inventer de partenaires ni utiliser leurs logos sans autorisation.
+
+Terminer par un appel à l’action :
+« Construisons ensemble les solutions de mobilité de demain. »
+
+### PAGE 2 — À PROPOS DE DBI
+
+Présenter :
+- L’identité de l’entreprise.
+- Sa mission.
+- Sa vision.
+- Ses valeurs.
+- Son approche de partenariat.
+- Ses ambitions de développement au Sénégal et en Afrique de l’Ouest.
+
+Valeurs à mettre en avant :
+- Fiabilité.
+- Transparence.
+- Professionnalisme.
+- Innovation.
+- Partenariat durable.
+- Développement des compétences locales.
+
+Expliquer que DBI souhaite développer des relations durables avec les fournisseurs, clients professionnels, coopératives, partenaires techniques et financiers.
+
+Ne pas inventer de date de création, de chiffres d’affaires, de références clients, de certifications ou de réalisations non confirmées.
+
+### PAGE 3 — NOS SOLUTIONS AUTOMOBILES
+
+Créer une page structurée en catégories visuelles.
+
+**Véhicules particuliers**
+- Véhicules neufs destinés aux particuliers et aux professionnels.
+- Solutions adaptées à différents budgets et usages.
+
+**Véhicules utilitaires**
+- Pick-up.
+- Fourgonnettes et minibus.
+- Véhicules destinés aux entreprises et aux opérations professionnelles.
+
+**Transport collectif**
+- Minibus.
+- Autobus.
+- Solutions de transport urbain et interurbain.
+
+**Véhicules industriels**
+- Camions de transport.
+- Camions-bennes.
+- Véhicules destinés aux activités logistiques et aux chantiers.
+
+Pour chaque catégorie, prévoir une image, une description, un bouton « Demander un devis » et un formulaire de demande.
+
+Ne pas inventer de disponibilité en stock, de prix, de caractéristiques techniques ou de délais de livraison. Ces informations devront être confirmées au cas par cas.
+
+### PAGE 4 — PROJET DE MOBILITÉ ET RENOUVELLEMENT DU PARC AUTOMOBILE
+
+Présenter le programme de développement de DBI au Sénégal.
+
+Inclure :
+- Une première phase portant sur un objectif de 5 000 véhicules.
+- Une démarche progressive de commercialisation et de déploiement.
+- Le développement de solutions pour les professionnels et les coopératives de transport.
+- L’intégration progressive de solutions de géolocalisation GPS et de gestion de flotte, selon les véhicules et les contrats.
+- Le développement du service après-vente.
+- Une ambition de contribution au développement économique et à la professionnalisation du secteur.
+
+Présenter un objectif indicatif pouvant atteindre 35 000 véhicules sur dix ans, en précisant clairement qu’il s’agit d’une ambition stratégique et non d’un volume déjà commandé ou financé dans son intégralité.
+
+Créer une frise chronologique illustrant les phases du programme, sans afficher de dates fermes non validées.
+
+Ajouter un bouton « Discuter d’un partenariat ».
+
+### PAGE 5 — CENTRE AUTOMOBILE ET FORMATION
+
+Présenter le projet de création progressive d’un centre automobile intégré.
+
+Les activités prévues :
+- Mécanique générale.
+- Entretien préventif et réparations.
+- Carrosserie et redressage.
+- Peinture automobile.
+- Diagnostic électronique.
+- Service après-vente.
+- Gestion des pièces de rechange.
+- Formation professionnelle et transfert de compétences.
+
+Prévoir des sections visuelles illustrant les ateliers, les équipements, la réception des véhicules et les espaces de formation.
+
+Présenter les objectifs :
+- Améliorer la disponibilité des véhicules.
+- Renforcer la qualité des interventions.
+- Développer les compétences techniques locales.
+- Contribuer à la création d’emplois.
+- Structurer progressivement un réseau de maintenance.
+
+Présenter le centre comme un projet en développement, et non comme une infrastructure déjà opérationnelle si sa mise en service n’est pas confirmée.
+
+Ajouter un bouton « Devenir partenaire technique ».
+
+### PAGE 6 — PARTENAIRES ET OPPORTUNITÉS DE COLLABORATION
+
+Créer une page destinée aux entreprises et partenaires institutionnels.
+
+Présenter les types de partenariats recherchés :
+- Constructeurs et fournisseurs automobiles.
+- Distributeurs et partenaires commerciaux.
+- Fournisseurs d’équipements d’atelier.
+- Partenaires technologiques et GPS.
+- Organismes de formation.
+- Coopératives et opérateurs de transport.
+- Partenaires financiers et investisseurs.
+- Partenaires logistiques.
+
+Expliquer les possibilités de collaboration :
+- Distribution et fourniture de véhicules.
+- Développement de solutions de mobilité.
+- Mise en place de services après-vente.
+- Fourniture d’équipements techniques.
+- Développement de compétences locales.
+- Étude de projets d’assemblage à long terme, selon leur faisabilité.
+
+Créer un formulaire de partenariat avec :
+- Nom complet.
+- Entreprise.
+- Pays.
+- Adresse e-mail professionnelle.
+- Téléphone.
+- Type de partenariat recherché.
+- Message.
+- Bouton « Envoyer ma demande ».
+
+### PAGE 7 — ACTUALITÉS ET PROJETS
+
+Créer une rubrique administrable permettant de publier :
+- Actualités de l’entreprise.
+- Annonces de partenariats autorisés.
+- Présentations de véhicules.
+- Avancement des projets.
+- Informations relatives au centre automobile.
+- Participation à des événements professionnels.
+
+Prévoir une interface simple pour ajouter, modifier et publier des articles.
+
+Ne pas afficher de faux témoignages, de fausses actualités ou de logos de partenaires fictifs.
+
+### PAGE 8 — CONTACT
+
+Afficher les informations de contact confirmées :
+
+Nom : DJIBY’S BUSINESS INTERNATIONAL (DBI)  
+Adresse : Fass Mbao, Dakar, Sénégal  
+E-mail : djibrilcisse155463@gmail.com
+
+Créer :
+- Un formulaire de contact.
+- Un champ de sélection du motif : demande de devis, partenariat, fournisseur, financement, service après-vente ou autre.
+- Un bouton WhatsApp si un numéro professionnel est fourni.
+- Une carte de localisation uniquement si l’adresse exacte peut être confirmée.
+- Des liens vers les réseaux sociaux uniquement lorsqu’ils existent.
+
+Ne pas inventer de numéro de téléphone, de compte de réseau social ou d’adresse physique plus précise.
+
+## 5. LANGUES
+
+Le site doit être conçu pour être multilingue.
+
+Langues prioritaires :
+- Français, langue principale.
+- Anglais, pour les partenaires internationaux.
+- Possibilité d’ajouter ultérieurement d’autres langues.
+
+Créer un sélecteur de langue visible dans l’en-tête. Les traductions doivent être réelles et cohérentes, pas simplement changer les titres tout en laissant le reste de la page dans une autre langue.
+
+## 6. FONCTIONNALITÉS TECHNIQUES
+
+Développer un site réellement fonctionnel et non une simple maquette.
+
+Utiliser une architecture moderne compatible avec Replit :
+- React.
+- TypeScript.
+- Vite.
+- Tailwind CSS.
+- Composants réutilisables.
+- React Router pour la navigation.
+- Lucide React pour les icônes.
+
+Backend recommandé :
+- Node.js avec Express, ou une architecture backend compatible avec les fonctionnalités de Replit.
+- Base de données PostgreSQL si nécessaire pour stocker les demandes et les actualités.
+- Variables d’environnement pour les clés et paramètres sensibles.
+
+Fonctionnalités :
+- Navigation responsive.
+- Formulaires avec validation côté client et côté serveur.
+- Messages de confirmation et d’erreur compréhensibles.
+- Protection contre les soumissions automatisées abusives.
+- Stockage sécurisé des demandes de contact et de partenariat.
+- Gestion des erreurs.
+- Chargement rapide des pages.
+- Optimisation des images.
+- Métadonnées SEO.
+- Plan du site XML et fichier robots.txt.
+- Accessibilité : contraste, navigation clavier, textes alternatifs et formulaires correctement étiquetés.
+
+Les formulaires ne doivent pas afficher un message de succès si les données n’ont pas réellement été enregistrées ou envoyées.
+
+Si un service d’e-mail n’est pas configuré, enregistrer les demandes dans la base de données et afficher un message honnête. Prévoir la configuration ultérieure de l’envoi d’e-mails avec des variables d’environnement.
+
+## 7. ESPACE D’ADMINISTRATION
+
+Créer un espace d’administration protégé par authentification.
+
+Fonctionnalités :
+- Connexion administrateur.
+- Tableau de bord.
+- Consultation des demandes de contact.
+- Consultation des demandes de partenariat.
+- Modification du statut des demandes.
+- Création, modification et suppression d’actualités.
+- Gestion des images et des contenus du site.
+- Déconnexion sécurisée.
+
+Ne pas intégrer de mot de passe administrateur en dur dans le code. Prévoir une configuration sécurisée des accès et protéger les routes administratives côté serveur.
+
+Si une fonctionnalité nécessite une configuration externe, documenter précisément les étapes nécessaires.
+
+## 8. DESIGN ET EXPÉRIENCE UTILISATEUR
+
+Le site doit ressembler à celui d’un groupe automobile international ou d’une entreprise de mobilité institutionnelle.
+
+Exigences :
+- En-tête élégant avec logo et navigation.
+- Menu mobile fonctionnel.
+- Boutons d’action bien visibles.
+- Sections clairement différenciées.
+- Cartes de services homogènes.
+- Images de qualité.
+- Animations légères et fluides.
+- Pied de page complet.
+- Formulaires agréables à utiliser.
+- Aucune section vide ni bouton sans action.
+- Aucune erreur dans les liens ou la navigation.
+- Aucun contenu fictif présenté comme réel.
+
+Ne pas surcharger le site de chiffres, de slogans exagérés ou de promesses non vérifiées.
+
+## 9. RÉFÉRENCEMENT ET CRÉDIBILITÉ
+
+Optimiser le site pour les recherches liées à :
+- DJIBY’S BUSINESS INTERNATIONAL.
+- Importation de véhicules au Sénégal.
+- Solutions automobiles professionnelles au Sénégal.
+- Fourniture de véhicules et flottes automobiles.
+- Service après-vente automobile.
+- Centre automobile et formation technique.
+
+Créer un titre et une description SEO spécifiques pour chaque page.
+
+Prévoir les métadonnées Open Graph pour le partage sur LinkedIn, WhatsApp et les autres plateformes.
+
+Ajouter une page de politique de confidentialité et une page de mentions légales avec des champs à compléter pour les informations qui restent à confirmer.
+
+## 10. EXIGENCES DE LIVRAISON
+
+Procède par étapes :
+
+1. Analyse le projet et définis une architecture cohérente.
+2. Crée l’identité visuelle et les composants principaux.
+3. Développe toutes les pages.
+4. Implémente la navigation et les fonctionnalités des formulaires.
+5. Configure la base de données si nécessaire.
+6. Crée l’espace d’administration sécurisé.
+7. Vérifie l’affichage sur ordinateur, tablette et mobile.
+8. Teste tous les formulaires, liens, routes et états d’erreur.
+9. Corrige les erreurs détectées.
+10. Prépare le site pour le déploiement sur Replit.
+
+Ne te limite pas à produire un plan ou une maquette. Génère le code réel, exécute le projet, vérifie le rendu et corrige les problèmes.
+
+À la fin, fournis :
+- Une liste des pages développées.
+- Les fonctionnalités opérationnelles.
+- Les variables d’environnement à configurer.
+- Les étapes de création du compte administrateur.
+- Les étapes de déploiement.
+- Les éléments que DBI doit encore confirmer avant la publication.
+
+**Résultat attendu :** un site institutionnel premium, moderne, crédible, sécurisé, multilingue et prêt à évoluer avec le développement de DJIBY’S BUSINESS INTERNATIONAL.

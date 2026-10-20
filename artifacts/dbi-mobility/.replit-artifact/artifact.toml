@@ -1,0 +1,28 @@
+kind = "web"
+previewPath = "/"
+title = "DJIBY’S BUSINESS INTERNATIONAL"
+description = "Site institutionnel bilingue de DBI, entreprise sénégalaise de mobilité et solutions automobiles, présentant ses activités, ses projets, ses opportunités de partenariat et ses canaux de contact."
+version = "1.0.0"
+id = "artifacts/dbi-mobility"
+router = "path"
+
+[[services]]
+name = "web"
+paths = [ "/" ]
+localPort = 22874
+
+[services.development]
+run = "pnpm --filter @workspace/dbi-mobility run dev"
+
+[services.production]
+build = [ "pnpm", "--filter", "@workspace/dbi-mobility", "run", "build" ]
+serve = "static"
+publicDir = "artifacts/dbi-mobility/dist/public"
+
+[[services.production.rewrites]]
+from = "/*"
+to = "/index.html"
+
+[services.env]
+PORT = "22874"
+BASE_PATH = "/"
